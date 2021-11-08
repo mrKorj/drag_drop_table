@@ -1,0 +1,5 @@
+export const actionTypes = {
+    DRAG_ROW: 'DRAG_ROW',
+    DRAG_COLUMN: 'DRAG_COLUMN',
+    GET_DATA_FROM_LOCALSTORAGE: 'GET_DATA_FROM_LOCALSTORAGE',
+}

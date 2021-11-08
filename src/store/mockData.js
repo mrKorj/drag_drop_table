@@ -1,0 +1,15 @@
+export const mockData = [
+    {id: 1, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 2, uid: 32122334578, name: 'Max Biton', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 3, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 4, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 5, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 6, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 7, uid: 32122334578, name: 'Edi Tor', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 8, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 9, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 10, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 11, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 12, uid: 32122334578, name: 'Haim Kaplan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+    {id: 13, uid: 32122334578, name: 'David Kogan', hours: '165:00', totalHours: '174:00', extraHours: '5:00', handHours: '4:00'},
+]
